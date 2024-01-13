@@ -1,0 +1,27 @@
+.header {
+    background-color: #0D182E;
+    background-image: url('../../assets/world-map.svg');
+    background-position: top right;
+    background-repeat: no-repeat;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    height: 210px;
+}
+
+.h1 {
+    color: #32CD32;
+    margin: 0;
+    padding: 0;
+    font-size: 3rem;
+    font-family: 'Big Shoulders Display', sans-serif;
+}
+
+.h2 {
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: .8rem;
+    font-family: 'Poppins';
+}
